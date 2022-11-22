@@ -1,0 +1,58 @@
+body {
+    margin-left: 180px;
+    margin-top: 50px;
+    margin-right: 180px;
+   
+}
+
+header {
+    color: #70757a;
+    line-height: 43px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+}
+
+.materia {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-bottom: 29px;
+    justify-content: space-between;      
+}
+
+.jornaleco {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    gap: 10px;
+}
+
+.Periodicos {
+    color: #202124;
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    
+}
+
+.Titulo {
+    color: #1a0dab;
+    font-family: arial,sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+   }
+
+.texto1 {
+    margin-top: 8px;
+    color: #4d5156;
+    font-size: 14px;
+    line-height: 1.4285714285714286em;
+}
+
+.texto2 {
+    color: #70757a;
+    font-size: 14px;
+    line-height: 16px;
+    margin-top: 5px;
+}
