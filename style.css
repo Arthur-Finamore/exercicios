@@ -12,7 +12,7 @@ header {
     font-size: 14px;
 }
 
-.materia {
+.container {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -20,14 +20,14 @@ header {
     justify-content: space-between;      
 }
 
-.jornaleco {
+.content {
     display: flex;
     align-items: center;
     margin-bottom: 8px;
     gap: 10px;
 }
 
-.Periodicos {
+.content-subtitle {
     color: #202124;
     font-family: arial,sans-serif;
     font-size: 12px;
@@ -35,7 +35,7 @@ header {
     
 }
 
-.Titulo {
+.content-title {
     color: #1a0dab;
     font-family: arial,sans-serif;
     font-size: 20px;
@@ -43,14 +43,14 @@ header {
     line-height: 24px;
    }
 
-.texto1 {
+.content-text-1 {
     margin-top: 8px;
     color: #4d5156;
     font-size: 14px;
     line-height: 1.4285714285714286em;
 }
 
-.texto2 {
+.content-text-2 {
     color: #70757a;
     font-size: 14px;
     line-height: 16px;
